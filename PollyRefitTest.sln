@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PollyRefitTest", "PollyRefitTest\PollyRefitTest.csproj", "{2D6468AA-BEEC-4959-B6FA-43FF292690E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PollyRefitTest.UnitTests", "PollyRefitTest.UnitTests\PollyRefitTest.UnitTests.csproj", "{9FF12D4E-342C-469A-A036-2D08BE47504F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D6468AA-BEEC-4959-B6FA-43FF292690E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D6468AA-BEEC-4959-B6FA-43FF292690E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D6468AA-BEEC-4959-B6FA-43FF292690E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D6468AA-BEEC-4959-B6FA-43FF292690E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FF12D4E-342C-469A-A036-2D08BE47504F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FF12D4E-342C-469A-A036-2D08BE47504F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FF12D4E-342C-469A-A036-2D08BE47504F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FF12D4E-342C-469A-A036-2D08BE47504F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54D1B028-FFF1-49C9-9F02-96178259EF75}
+	EndGlobalSection
+EndGlobal
